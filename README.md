@@ -10,5 +10,8 @@ In collaboration with 김주혁(철학과 20학번) and 이**(자유전공학부
 
 Used data crawling on NaverMaps and Semantic UI for webpage design.
 
+https://www.nytimes.com/games/wordle/index.html
+
 https://medium.com/codex/building-a-wordle-solver-with-python-77e3c2388d63 
+
 https://www.youtube.com/watch?v=v68zYyaEmEA&ab_channel=3Blue1Brown 
